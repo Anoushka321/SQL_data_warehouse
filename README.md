@@ -1,4 +1,4 @@
-# SQL_data_warehouse
+# SQL Data Warehouse
 Designing a modern data warehouse with PostgreSQL, featuring ETL processes, data modeling, and analytics.
 
 This project presents a complete data warehousing and analytics solution, covering everything from building a data warehouse to deriving actionable insights. Developed as a portfolio project, it showcases industry-standard best practices in data engineering and analytics.
